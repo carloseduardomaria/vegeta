@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-image: url(cr7.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+
+input {
+    padding: 8px;
+    margin: 5px;
+}
+
+button{
+    padding: 10px;
+    margin: 10px;
+    cursor: pointer;
+}
